@@ -45,7 +45,7 @@ docker run -d --restart=unless-stopped \
 
 
 
-![](.\images\login.png)
+![](./images/login.png)
 
 ### 1.设置密码
 
@@ -53,7 +53,7 @@ docker run -d --restart=unless-stopped \
 
 ### 3.设置Rancher Server URL
 
-![image-20201216152144850](.\images\server.png)
+![image-20201216152144850](./images/server.png)
 
 ## 5.创建集群
 
@@ -63,11 +63,11 @@ docker run -d --restart=unless-stopped \
 
 1.添加集群
 
-![image-20201211110628268](.\images\createcluster.png)
+![image-20201211110628268](./images/createcluster.png)
 
 2.配置集群信息
 
-![image-20201211110919379](.\images\editcluster.png)
+![image-20201211110919379](./images/editcluster.png)
 
 
 
@@ -75,9 +75,9 @@ docker run -d --restart=unless-stopped \
 
 
 
-![image-20201211111113686](C:\Users\thpower\AppData\Roaming\Typora\typora-user-images\image-20201211111113686.png)
+![image-20201211111113686](./images/image-20201211111113686.png)
 
-![image-20201211111246795](.\images\next.png)
+<img src="./images/next.png" alt="image-20201211111246795" style="zoom:80%;" />
 
 
 
@@ -87,7 +87,7 @@ docker run -d --restart=unless-stopped \
 
 4.复制添加主机命令
 
-![image-20201211111404058](.\images\ok.png)
+![image-20201211111404058](./images/ok.png)
 
 5.配置hosts
 
@@ -95,7 +95,7 @@ docker run -d --restart=unless-stopped \
 vi /etc/hosts
 ```
 
-![image-20201211111703790](.\images\hosts.png)
+![image-20201211111703790](./images/hosts.png)
 
 
 
@@ -103,7 +103,7 @@ vi /etc/hosts
 
 6.主机执行命
 
-![image-20201216152438248](.\images\shell.png)
+![image-20201216152438248](./images/shell.png)
 
 
 
